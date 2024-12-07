@@ -1,3 +1,7 @@
+### Overview
+
+This is the archive of the learning materials created by Enrich.
+
 ### Curriculum Structure
 
 1. Lessons 1 and 2 focus on helping participants familiarise with Python syntax, from variables, operators and loops to functions and arrays.
