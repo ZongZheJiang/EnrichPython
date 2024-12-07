@@ -17,3 +17,7 @@ This is the archive of the learning materials created by Enrich.
 2. Automatic Teller Machine (ATM) Program
 3. Currency Converter Program
 4. 2048 Game 
+
+### Credits
+
+Ian (R14), Meghan (R14), Yun Qing (R14), Travis (R13), Joanna (R13), Jing Yin (R13) and Zong Zhe (R13)
